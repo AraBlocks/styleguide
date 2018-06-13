@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/arablocks/styleguide.git"
+    "url": "https://github.com/AraBlocks/styleguide.git"
   },
   "keywords": [
     "style guide",
@@ -17,7 +17,7 @@
   "author": "",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/arablocks/styleguide/issues"
+    "url": "https://github.com/AraBlocks/styleguide/issues"
   },
-  "homepage": "https://github.com/arablocks/styleguide"
+  "homepage": "https://github.com/AraBlocks/styleguide"
 }

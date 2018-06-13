@@ -5,7 +5,7 @@
   "scripts": {
     "preinstall": "echo \"npm run install:config\" && npm run install:config",
     "install:config": "cd eslint && npm install",
-    "test": ":"
+    "test": "./test"
   },
   "repository": {
     "type": "git",

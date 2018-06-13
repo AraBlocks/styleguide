@@ -1,0 +1,3 @@
+#!/bin/bash
+
+[[ $(npm list --depth=0 | grep eslint-config-ara) =~ "eslint-config-ara" ]] || echo "Fail"

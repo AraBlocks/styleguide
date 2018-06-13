@@ -4,8 +4,7 @@
   "description": "Code style guides",
   "scripts": {
     "preinstall": "echo \"npm run install:config\" && npm run install:config",
-    "install:config": "cd eslint && npm install",
-    "test": ":"
+    "install:config": "cd eslint && npm install"
   },
   "repository": {
     "type": "git",

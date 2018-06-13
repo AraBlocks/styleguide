@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/AraBlocks/styleguide/issues"
   },
-  "homepage": "https://github.com/AraBlocks/styleguide"
+  "homepage": "https://github.com/AraBlocks/styleguide",
+  "devDependency": {
+    "eslint-plugin-import": "^2.12.0"
+  }
 }

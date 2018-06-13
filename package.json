@@ -1,5 +1,5 @@
 {
-  "name": "eslint-config-ara",
+  "name": "ara-style",
   "version": "1.0.0",
   "description": "Code style guides",
   "scripts": {
@@ -19,8 +19,5 @@
   "bugs": {
     "url": "https://github.com/AraBlocks/styleguide/issues"
   },
-  "homepage": "https://github.com/AraBlocks/styleguide",
-  "peerDependencies": {
-    "eslint": ">= 4"
-  }
+  "homepage": "https://github.com/AraBlocks/styleguide"
 }

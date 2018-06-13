@@ -4,4 +4,4 @@ node_js:
 install:
   - npm install
 script:
-  - [[ $(npm list --depth=0 | grep eslint-config-ara) =~ "eslint-config-ara" ]]
+  - $(npm list --depth=0 | grep eslint-config-ara) =~ "eslint-config-ara"

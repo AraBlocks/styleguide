@@ -60,7 +60,7 @@ If applicable.
 
 ## Contributing
 - [Commit message format](https://github.com/AraBlocks/docs/blob/master/.github/COMMIT_FORMAT.md)
-- [commit message examples](https://github.com/AraBlocks/docs/blob/master/.github/COMMIT_FORMAT_EXAMPLES.md)
+- [Commit message examples](https://github.com/AraBlocks/docs/blob/master/.github/COMMIT_FORMAT_EXAMPLES.md)
 - [How to contribute](https://github.com/AraBlocks/docs/blob/master/.github/CONTRIBUTING.md)
 
 Releases follow [Semantic Versioning](https://semver.org/)

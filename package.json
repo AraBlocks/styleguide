@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Code style guides",
   "scripts": {
-    "preinstall": "echo \"npm run install:config\"",
+    "preinstall": "echo \"npm run install:config\" && npm run install:config",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {

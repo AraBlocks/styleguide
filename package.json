@@ -5,7 +5,7 @@
   "main": "javascript.md",
   "scripts": {
     "preinstall": "npm run install:config",
-    "install:config": "cd eslint/eslint-config-ara && npm prune && npm install",
+    "install:config": "cd eslint && npm install",
   },
   "repository": {
     "type": "git",

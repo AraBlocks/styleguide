@@ -20,7 +20,7 @@
     "url": "https://github.com/AraBlocks/styleguide/issues"
   },
   "homepage": "https://github.com/AraBlocks/styleguide",
-  "devDependencies": {
-    "eslint-plugin-import": "^2.12.0"
+  "peerDependencies": {
+    "eslint": ">= 4"
   }
 }

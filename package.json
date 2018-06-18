@@ -1,0 +1,34 @@
+{
+  "name": "styleguide",
+  "version": "0.0.1",
+  "description": "Ara Programming & Syntax Guidelines & Best Practices.",
+  "main": "index.js",
+  "bin": {},
+  "scripts": {
+    "test": ":",
+    "lint": "eslint ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AraBlocks/styleguide.git"
+  },
+  "keywords": [
+    "ara",
+    "styleguide"
+  ],
+  "author": "Madeline Cameron <maddie@littlstar.com>",
+  "license": "LGPL-3.0",
+  "bugs": {
+    "url": "https://github.com/AraBlocks/styleguide/issues"
+  },
+  "homepage": "https://github.com/AraBlocks/styleguide/blob/master/generic.md",
+  "dependencies": {},
+  "peerDependencies": {},
+  "optionalDependencies": {},
+  "devDependencies": {
+    "ava": "^0.25.0",
+    "eslint": "^4.19.1",
+    "eslint-config-ara": "github:arablocks/eslint-config-ara",
+    "eslint-plugin-import": "^2.12.0"
+  }
+}

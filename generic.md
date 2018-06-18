@@ -1,4 +1,4 @@
-## Littlstar Generic Programming Guidelines
+## Ara Generic Programming Guidelines
 
 ### Table of Contents
 

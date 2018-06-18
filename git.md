@@ -3,7 +3,6 @@
 ### How to use git
 
 // TODO: Put git 101 here
-For now, check out the overall [Github process](https://littlstar.atlassian.net/wiki/spaces/ARA/pages/108396680/Github+Process).
 
 ### Branching
 

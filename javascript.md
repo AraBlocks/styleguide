@@ -1,4 +1,4 @@
-# Littlstar JavaScript Style Guide() {
+# Ara JavaScript Style Guide() {
 
 *A mostly reasonable approach to JavaScript*
 
@@ -2521,7 +2521,7 @@
     const foo = jsonData && jsonData.foo && jsonData.foo.bar && jsonData.foo.bar.baz && jsonData.foo.bar.baz.quux && jsonData.foo.bar.baz.quux.xyzzy;
 
     // bad
-    $.ajax({ method: 'POST', url: 'https://littlstar.com/', data: { name: 'John' } }).done(() => console.log('Congratulations!')).fail(() => console.log('You have failed this city.'));
+    $.ajax({ method: 'POST', url: 'https://arablocks.io/', data: { name: 'John' } }).done(() => console.log('Congratulations!')).fail(() => console.log('You have failed this city.'));
 
     // good
     const foo = jsonData
@@ -2534,7 +2534,7 @@
     // good
     $.ajax({
       method: 'POST',
-      url: 'https://littlstar.com/',
+      url: 'https://arablocks.io/',
       data: { name: 'John' },
     })
       .done(() => console.log('Congratulations!'))

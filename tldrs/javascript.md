@@ -1,8 +1,8 @@
 ## TL;DR (Too long; Didn't Read): JS/ES Edition
 
 - Use ES6+ features when approriate. Use the synatactic sugar to make code pretty (and readable).
-  - Arrow functions have parens when it has braces and don't if not.
-  - Variable declarion is the exception, you must use 'const' and 'let'
+  - Arrow functions always have parentheses when it has braces and don't when it doesn't.
+  - Variable declarion is the exception, you are required to use 'const' and 'let'
 - Don't use old things like 'use strict'
   - 'use strict' is implicit in ES6
 - Use ESLint to fix any mistakes

@@ -1,9 +1,5 @@
 ## git Style Guide
 
-### How to use git
-
-// TODO: Put git 101 here
-
 ### Branching
 
 Use feature-specific branches as much as you can. Don't use master if your code has been released or depended upon.

@@ -23,7 +23,7 @@
 - **Debuggers**: Non-triage debugging functionality should not be committed
 
   - If it doesn't help future people figure out why a system crashed, it doesn't belong
-  - Do not commit shim code. If it isn't useful for running in production, it doesn't belong.
+  - Do not commit code that is only useful during debugging (shimming something, etc). If it isn't useful for running in production, it doesn't belong.
 
 ### Code Smells
 

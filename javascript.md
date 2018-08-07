@@ -1,6 +1,6 @@
 # Ara JavaScript Style Guide() {
 
-*A mostly reasonable approach to JavaScript*
+This styleguide is heavily influenced by AirBnB's guide. For a tl;dr of our changes, check out the [tl;dr folder](/tldr).
 
 ## Table of Contents
 

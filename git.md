@@ -4,7 +4,7 @@
 
 - Use feature-specific branches as much as you can. Don't work on master if your code has been released or depended upon.
 
-- Name your branches with this format: `contributorInitials-JIRA-ticketNumber-keywords` Always use dashes, _not_ underscore s.
+- Name your branches with this format: `contributorInitials-JIRA-ticketNumber-keywords` Always use dashes, _not_ underscores.
 
 - Branch names that are easy to read and understand are the goal; feel free to exclude keywords etc if it will enhance readability.
 

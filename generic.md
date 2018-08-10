@@ -10,20 +10,20 @@
 
 ### Comments
 
-- **Multi-line Comments**: Not allowed inside of classes and functions
+- **Multi-line Comments**: Not allowed inside of classes and functions.
 
   - Remember another person will read this. Be as explicit, clear, and precise as you can be.
 
-- **Single-line Comments**: Allowed anywhere but use sparingly
+- **Single-line Comments**: Allowed anywhere but use sparingly.
 
   - Too many comments is a code smell (bad thing) and means your code isn't self-descriptive.
 
 ### Debugging
 
-- **Debuggers**: Non-triage debugging functionality should not be committed
+- **Debuggers**: Non-triage debugging functionality should not be committed.
 
-  - If it doesn't help future people figure out why a system crashed, it doesn't belong
-  - Do not commit code that is only useful during debugging (shimming something, etc). If it isn't useful for running in production, it doesn't belong.
+  - If it doesn't help future people figure out why a system crashed, don't put it in `master`.
+  - Do not commit code that is only useful during debugging (shimming something, etc). If it isn't useful for running in production, don't put it in `master`.
 
 ### Code Smells
 
@@ -32,5 +32,3 @@
   - Excessive non-meaningful code distracts from more important code.
 
 - **Magic Values**: Avoid having hard-coded strings / numbers / values in your code, put them in a constant with a descriptive variable name.
-
-

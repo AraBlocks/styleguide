@@ -1,7 +1,7 @@
 <img src="https://github.com/AraBlocks/docs/blob/master/ara.png" width="30" height="30" /> ara-styleguide
 ========
 
-Guides for how code is written in the ARA Ecosystem.
+Guides for how code is written in the Ara Ecosystem.
 
 ## Status
 

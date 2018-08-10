@@ -2,8 +2,10 @@
 
 #### Dos:
 - Use ES6+ features when approriate. Use the synatactic sugar to make code pretty (and readable).
-  - Arrow functions always have parentheses when it has braces. `func() => { return true }`
-  - Arrow functions never have parentheses when it does not have braces. `func => true`
+  - Arrow functions always have parentheses when it has braces.
+    - `func() => { return true }`
+  - Arrow functions never have parentheses when it does not have braces.
+    - `func => true`
   - Use 'const' and 'let'.
 - Use ESLint to fix mistakes.
   - Objects and arrays always have padding at the beginning and end.
